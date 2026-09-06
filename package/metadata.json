@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "daniel.m.decker@gmail.com",
+                "Name": "Daniel Decker"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "Monitor per-core CPU usage from the Plasma panel",
+        "Icon": "cpu",
+        "Id": "com.danielmdecker.cpucoremon",
+        "License": "MIT",
+        "Name": "CPU Core Monitor",
+        "Version": "0.1.0",
+        "Website": "https://github.com/danielmdecker/cpucoremon-kde"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

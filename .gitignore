@@ -1,0 +1,16 @@
+# Build / packaging artifacts
+build/
+*.plasmoid
+*.tar.gz
+*.zip
+
+# Editor / OS cruft
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
+
+# Agent / tooling state
+.claude/
+.opencode/
